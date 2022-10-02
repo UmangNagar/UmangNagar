@@ -21,5 +21,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Other Tools : 
-<img align="center" src="https://drive.google.com/file/d/1j633o-nH4MdzBAF6aiVC016qncEvGV9F/view?usp=sharing" alt="tilakjain123" data-canonical-src="https://github-readme-stats.vercel.app/api?username=tilakjain123&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
- <a href="https://www.buymeacoffee.com/codingdev" rel="nofollow"><img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" alt="Buy Me A Coffee" style="height: 60px; width: 217px; max-width: 100%;" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"></a>
+ LeetCode : <a href="https://leetcode.com/umangnagar113/" rel="nofollow">Click Me</a>
+ HackerRank : <a href="https://www.hackerrank.com/umangnagar113" rel="nofollow">Click Me</a>
+ <br>
+ <hr>
+ <p dir="auto">If you like my work on Instagram or else where, you can buy me a coffee. Thank You <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji></p>
+ <img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" alt="Buy Me A Coffee" style="height: 60px; width: 217px; max-width: 100%;" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
