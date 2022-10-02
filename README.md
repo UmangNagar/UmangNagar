@@ -21,4 +21,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Other Tools : 
-<img align="center" src="https://drive.google.com/file/d/1j633o-nH4MdzBAF6aiVC016qncEvGV9F/view?usp=sharing" alt="tilakjain123" style="max-width: 100%;">
+
+ 
+ <p dir="auto">If you like my work on Instagram or else where, you can buy me a coffee. Thank You <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji></p>
