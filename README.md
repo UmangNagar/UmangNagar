@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Other Tools : 
- LeetCode : <a href="https://leetcode.com/umangnagar113/" rel="nofollow">Click Me</a>
+ LeetCode : <a href="https://leetcode.com/umangnagar113/" rel="nofollow">Click Me</a><br>
  HackerRank : <a href="https://www.hackerrank.com/umangnagar113" rel="nofollow">Click Me</a>
  <br>
  <hr>
